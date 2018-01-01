@@ -11,15 +11,15 @@ Year | Place | Most Excellent High Priest
 :--- | :---- | :-------------------------
 2009 | Third | Edward G. Knott
 2010 | Second | Robert L. Burris
-2011 | **FIRST** | Bruce W. Hammond
+2011 | *FIRST* | Bruce W. Hammond
 
 ### Tarrant County York Rite Association Parry Award
 The Parry award is based on York Rite ritualistic proficiency in Tarrant County.
 
 Year | Overall Place | Chapter Place | Council Place | MEHP/TIM | Notes
 :--- | :------------ | :------------ | :------------ | :------- | :----
-2012 | **FIRST** | **FIRST** | **FIRST** | Kenneth Curry |
-2013 | Fourth | **FIRST** | Third | David L. Kisselburg | Perfect score in Chapter
+2012 | *FIRST* | *FIRST* | *FIRST* | Kenneth Curry |
+2013 | Fourth | *FIRST* | Third | David L. Kisselburg | Perfect score in Chapter
 
 ### Chapter & Council Certificate Holders
 These Companions hold instruction certificates from the Grand Chapter / Grand Council Committee on Work.
