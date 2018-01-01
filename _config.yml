@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Texas Chapter & Council
+title: Texas Chapter \#362 (R.A.M.) & Council \#321 (R. & S.M.)
 
 # Short description of your site
 description: Spreading Masonic Light in Fort Worth, Texas
@@ -25,13 +25,17 @@ description: Spreading Masonic Light in Fort Worth, Texas
 navbar-links:
   About Us:
     - Our Purpose: "aboutme"
-    - Our History: "history"
+    - Officer Teams: "officers"
+    #- Our History: "history"
     - Past Presiding Officers: "php-ptims"
-    - Awards History: "awards"
-  Resources:
+    - Awards: "awards"
+  Want to Learn More?:
     - Frequently Asked Questions: "FAQ"
-    - Degrees: "degrees"
+    - The York Rite Degrees: "degrees"
+  Member Resources:
     - Pay Dues: "dues"
+    - Events Calendar: "calendar"
+  Contact Us: "contact"
  #Monthly Message: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
