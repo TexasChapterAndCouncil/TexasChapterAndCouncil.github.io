@@ -3,14 +3,6 @@ layout: page
 title: About Us
 subtitle: Who are we, anyway
 ---
-
-## Stated Purpose
-
-We strive to:
-- Create an environment that fosters camaraderie and brotherly love.
-- Provide our members and candidates with talented performance of insightful ritual.
-- Educate our members and provide more context for the degrees of the Craft Lodge.
-
 ### Meetings
 
 With the exception of holidays, we meet on the first Tuesday of every month in the [Fort Worth Masonic Temple.](https://goo.gl/maps/KBkeZiZwJiD2)

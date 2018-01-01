@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Texas Chapter \#362 (R.A.M.) & Council \#321 (R. & S.M.)
+title: "Texas Chapter #362 (R.A.M.) & Council #321 (R. & S.M.)"
 
 # Short description of your site
 description: Spreading Masonic Light in Fort Worth, Texas
@@ -24,7 +24,8 @@ description: Spreading Masonic Light in Fort Worth, Texas
 # List of links in the navigation bar
 navbar-links:
   About Us:
-    - Our Purpose: "aboutme"
+    - About Us: "aboutme"
+    - Our Purpose: "purpose"
     - Officer Teams: "officers"
     #- Our History: "history"
     - Past Presiding Officers: "php-ptims"
